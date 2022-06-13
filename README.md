@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oscar Martinez
 - 👀 I’m interested in data science, machine learning, computational physics, and software development
-- 🌱 I’m currently learning the basics of web development
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: oscarmtz91702@gmail.com
 
 <!---
